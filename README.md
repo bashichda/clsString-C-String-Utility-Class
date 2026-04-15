@@ -1,0 +1,1 @@
+# clsString-C-String-Utility-Class
